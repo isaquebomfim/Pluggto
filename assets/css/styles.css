@@ -303,58 +303,6 @@ img{
   align-items: center;
 }
 
-.about__cutone{
-  position: absolute;
-  left: 0;
-  width: 100%;
-  padding: 1.5rem 0 2rem;
-  background-color: #FFFFFF;
-  top: 1300px;
-  margin-top: -2px;
-}
-
-
-.about__cuttwo{
-  position: absolute;
-  left: 0;
-  width: 100%;
-  padding: 1.5rem 0 2rem;
-  background-color: #FFFFFF;
-  top: 2000px;
-  margin-top: -2px;
-}
-
-.about__cutthree{
-  position: absolute;
-  left: 0;
-  width: 100%;
-  padding: 1.5rem 0 2rem;
-  background-color: #FFFFFF;
-  top: 2710px;
-  margin-top: -2px;
-}
-
-.about__cutfour{
-  position: absolute;
-  left: 0;
-  width: 100%;
-  padding: 1.5rem 0 2rem;
-  background-color: #FFFFFF;
-  top: 3430px;
-  margin-top: -2px;
-}
-
-
-.about__cutfive{
-  position: absolute;
-  left: 0;
-  width: 100%;
-  padding: 1.5rem 0 2rem;
-  background-color: #FFFFFF;
-  top: 4140px;
-  margin-top: -2px;
-}
-
 .about__description{
   margin-bottom: var(--mb-3);
 }
